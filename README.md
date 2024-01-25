@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para rastrear os hábitos.
 
+- [Visite o projeto online](https://levigtri.github.io/Habits-explorer/)
+
 
 ## 🔖 Layout
 
